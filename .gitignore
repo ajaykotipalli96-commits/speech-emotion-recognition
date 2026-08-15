@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+dataset/RAVDESS/
+dataset/AUGMENTED_RAVDESS/
+dataset/CLEAN_AUGMENTED_RAVDESS/
+features/*.csv
+*.wav
